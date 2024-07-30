@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/humanoid-robot-white-isolated-data-network-connection-background-vector-illustration_343960-32504.jpg?w=740)
+[![MasterHead](https://img.freepik.com/premium-photo/mlp-robot-humanoid-using-tablet-computer-future-office_31965-411193.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Kiplimo Luis</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*M7W_h805deiOiyO2BMXdxg.gif">
